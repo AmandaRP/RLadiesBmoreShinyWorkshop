@@ -1,4 +1,4 @@
-# RLadiesBmoreShinyWorkshop
+# R Ladies Baltimore: Shiny Workshop
 
 Starter code can be found in the shinyApp and shinyDashboard directories.
 
